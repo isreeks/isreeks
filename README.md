@@ -1,8 +1,6 @@
 <h1 align="center">Sreekar Bharadwaj (Prash)</h1>
 <h2 align="center">Software Engineering. BUIDLng Future CS EDTech Products at i.CAMP @icampdev</h2>
 
-                                                               
-An Entrepreneur & Educationist. <br><br>
 [#BUIDL](https://www.definitions.net/definition/Buidl)'ng Future Computer Science Education Platforms with [i.CAMP](https://i.CAMP), [CS.CAMP](https://CS.CAMP) (Under R & D - Live 2022-23). Passionate about coding , Innovation and wanna be the disruptor in the field of Computer Science Education. [#BUIDL](https://www.definitions.net/definition/Buidl) [#WEB3](https://en.wikipedia.org/wiki/Web3)
 
 1 Year World Class Computer Science Bootcamp - Focus Field in Web Engineering, [CS.CODE.IN](https://cs.code.in) (Live) ✔️ 
